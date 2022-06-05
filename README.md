@@ -9,6 +9,8 @@
 - 🥅 2022 Goals: Master C++11 and C++14 techniques
 - ⚡ Fun fact: I love watching Football
 
+bruh
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://brandonpyle.netlify.app/)
