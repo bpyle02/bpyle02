@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://brandonpyle.netlify.app)
-[![website](./img/globe-dark.svg)](https://brandonpyle.netlify.app)
+[![website](./img/globe-light.svg)](https://brandonpyle.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://brandonpyle.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/brandon-pyle#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brandon-pyle#gh-dark-mode-only)
