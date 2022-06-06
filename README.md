@@ -29,7 +29,7 @@
 - [Check out my GitHub Page!](https://dev.to/bpyle02/check-out-my-github-page-6e2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://brandonpyle.netlify.app/)
+➡️ [more blog posts...](https://dev.to/bpyle02/)
 
 ---
 
