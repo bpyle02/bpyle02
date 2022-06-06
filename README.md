@@ -18,9 +18,6 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brandon-pyle#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-<br />
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
