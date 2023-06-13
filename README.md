@@ -1,12 +1,12 @@
 # Hi there, I'm Brandon 👋 
 
-[![Website](https://img.shields.io/website?label=brandonpyle.netlify.app&style=for-the-badge&url=https%3A%2F%2Fbrandonpyle.netlify.app)](https://brandonpyle.netlify.app/)
+[![Website](https://img.shields.io/website?label=brandonpyle.netlify.app&style=for-the-badge&url=https%3A%2F%2Fbrandonpyle.netlify.app)](https://brandonpyle.com)
 
 ## I'm a student at Liberty University studying Computer Science
 
-- 🌱 I’m currently learning modern C++
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to become a Software Engineer / Developer
-- 🥅 2022 Goals: Master C++11 and C++14 techniques
+- 🥅 2023 Goals: Learn Python
 - ⚡ Fun fact: I love watching Football
 
 ### Connect with me:
@@ -22,11 +22,7 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Check out my GitHub Page!](https://dev.to/bpyle02/check-out-my-github-page-6e2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/bpyle02/)
+- [Check out my new blog!](https://brandonpyle.com)
 
 ---
 
