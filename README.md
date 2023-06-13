@@ -1,6 +1,6 @@
 # Hi there, I'm Brandon 👋 
 
-[![Website](https://img.shields.io/website?label=brandonpyle.netlify.app&style=for-the-badge&url=https%3A%2F%2Fbrandonpyle.netlify.app)](https://brandonpyle.com)
+[![Website](https://img.shields.io/website?label=brandonpyle.com&style=for-the-badge&url=https%3A%2F%2Fbrandonpyle.netlify.app)](https://brandonpyle.com)
 
 ## I'm a student at Liberty University studying Computer Science
 
@@ -17,14 +17,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/brandon-pyle#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brandon-pyle#gh-dark-mode-only)
 &nbsp;&nbsp;
-
----
-
-### 📕 Latest Blog Posts
-
-- [Check out my new blog!](https://brandonpyle.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
