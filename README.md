@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to become a Software Engineer / Developer
 - 🥅 2023 Goals: Learn Python
-- ⚡ Fun fact: I love watching Football
+- ⚡ Fun fact: My favorite sport is American Football
 
 ### Connect with me:
 
@@ -17,14 +17,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/brandon-pyle#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brandon-pyle#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
