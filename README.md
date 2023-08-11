@@ -1,6 +1,6 @@
 # Hi there, I'm Brandon 👋 
 
-[![Website](https://img.shields.io/website?label=brandonpyle.com&style=for-the-badge&url=https%3A%2F%2Fbrandonpyle.netlify.app)](https://brandonpyle.com)
+[![Website](https://img.shields.io/website?label=brandonpyle.com&style=for-the-badge&url=https%3A%2F%2Fbrandonpyle.com)](https://brandonpyle.com)
 
 ## I'm a student at Liberty University studying Computer Science
 
@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://brandonpyle.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://brandonpyle.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://brandonpyle.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://brandonpyle.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/brandon-pyle#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brandon-pyle#gh-dark-mode-only)
@@ -25,5 +25,5 @@
 
 </details>
 
-[website]: https://brandonpyle.netlify.app/
+[website]: https://brandonpyle.com/
 [linkedin]: https://linkedin.com/in/brandon-pyle/
