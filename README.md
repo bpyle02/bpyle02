@@ -4,9 +4,9 @@
 
 ## I'm a student at Liberty University studying Computer Science
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Modern C++
 - 👯 I’m looking to become a Software Engineer / Developer
-- 🥅 2023 Goals: Learn Python
+- 🥅 2024 Goals: Learn Modern C++
 - ⚡ Fun fact: My favorite sport is American Football
 
 ### Connect with me:
